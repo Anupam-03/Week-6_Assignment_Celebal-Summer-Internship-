@@ -65,17 +65,16 @@ To run this application locally, follow these steps:
       "cartItems": 123,
       "shopping": true
     }
-    ```
-    <br>
-    
+    ```    
     ![image](https://github.com/Anupam-03/Week-6_Assignment_Celebal-Summer-Internship-/assets/116145439/c62b6b6b-91cc-416d-a64e-a376904b2835)
 
 ---
 
 - **Get all users**
   - **GET** `/users`
-    <br>
-  ![image](https://github.com/Anupam-03/Week-6_Assignment_Celebal-Summer-Internship-/assets/116145439/caaeed12-c6f3-416c-bd57-4d64d467d0f7)
+  <br>
+  
+     ![image](https://github.com/Anupam-03/Week-6_Assignment_Celebal-Summer-Internship-/assets/116145439/caaeed12-c6f3-416c-bd57-4d64d467d0f7)
 
 ---
 
@@ -95,7 +94,7 @@ To run this application locally, follow these steps:
   - **DELETE** `/users/:id`
   <br>
   
-  ![image](https://github.com/Anupam-03/Week-6_Assignment_Celebal-Summer-Internship-/assets/116145439/566bbb74-8922-4b85-a2eb-99db39f982b3)
+     ![image](https://github.com/Anupam-03/Week-6_Assignment_Celebal-Summer-Internship-/assets/116145439/566bbb74-8922-4b85-a2eb-99db39f982b3)
 
 ---
 
